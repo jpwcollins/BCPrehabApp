@@ -1,0 +1,154 @@
+{
+  "categories": [
+    "Substance Use",
+    "Medical Optimization",
+    "Wellbeing",
+    "Surgical Preparation"
+  ],
+  "resources": [
+    {
+      "id": "alcohol",
+      "title": "Alcohol",
+      "description": "Guidance on alcohol reduction and cessation before surgery to improve outcomes and reduce complications.",
+      "category": "Substance Use",
+      "icon": "wine-off",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/tzmxob0hr1smnqgbm7iu7"
+    },
+    {
+      "id": "anemia",
+      "title": "Anemia",
+      "description": "Pre-operative screening and management of anemia including iron deficiency to optimize surgical readiness.",
+      "category": "Medical Optimization",
+      "icon": "droplets",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/l4az6amxjbpw0duhox7c3"
+    },
+    {
+      "id": "cannabis",
+      "title": "Cannabis",
+      "description": "Information on cannabis use and its impact on anesthesia, pain management, and surgical recovery.",
+      "category": "Substance Use",
+      "icon": "leaf",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/iuwiv8cwnq24csxdkzxq8"
+    },
+    {
+      "id": "cardiac",
+      "title": "Cardiac",
+      "description": "Cardiac risk assessment and optimization strategies for patients undergoing non-cardiac surgery.",
+      "category": "Medical Optimization",
+      "icon": "heart-pulse",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/q92ehka0o385vn988vbch"
+    },
+    {
+      "id": "delirium",
+      "title": "Delirium",
+      "description": "Prevention and management of post-operative delirium including risk factors and evidence-based interventions.",
+      "category": "Surgical Preparation",
+      "icon": "brain",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/riae3h7y4hznz08991604"
+    },
+    {
+      "id": "frailty",
+      "title": "Frailty",
+      "description": "Assessment and optimization of frail patients to improve surgical tolerance and post-operative recovery.",
+      "category": "Surgical Preparation",
+      "icon": "user-round",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/cak2aqk4sq6fwt67jjhmm"
+    },
+    {
+      "id": "glycemic-control",
+      "title": "Glycemic Control",
+      "description": "Pre-operative blood glucose management and diabetic optimization strategies for surgical patients.",
+      "category": "Medical Optimization",
+      "icon": "activity",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/tugujuhg9ib8np4yg9nk0"
+    },
+    {
+      "id": "goals-of-care",
+      "title": "Goals of Care",
+      "description": "Framework for discussing treatment goals, patient preferences, and shared decision-making before surgery.",
+      "category": "Surgical Preparation",
+      "icon": "clipboard-list",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/wkd6pjer2jc875porh4po"
+    },
+    {
+      "id": "illicit-substances",
+      "title": "Illicit Substances",
+      "description": "Considerations for patients using illicit substances including perioperative risks and management strategies.",
+      "category": "Substance Use",
+      "icon": "pill",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/wsywp2j03frrpj7k1ksj4"
+    },
+    {
+      "id": "mental-wellbeing",
+      "title": "Mental Wellbeing",
+      "description": "Psychological preparation for surgery including anxiety management and mental health optimization.",
+      "category": "Wellbeing",
+      "icon": "smile",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/tibyakc4if66nvgfbqsoi"
+    },
+    {
+      "id": "nutrition",
+      "title": "Nutrition",
+      "description": "Evidence-based nutritional strategies including protein supplementation and micronutrient optimization.",
+      "category": "Wellbeing",
+      "icon": "apple",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/qdiecll6id0it3eem539l"
+    },
+    {
+      "id": "obesity",
+      "title": "Obesity",
+      "description": "Perioperative considerations and optimization strategies for patients with obesity undergoing surgery.",
+      "category": "Medical Optimization",
+      "icon": "scale",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/p3ziq26wgl0p2h2fr345t"
+    },
+    {
+      "id": "obstructive-sleep-apnea",
+      "title": "Obstructive Sleep Apnea",
+      "description": "Screening and management of obstructive sleep apnea to reduce perioperative respiratory complications.",
+      "category": "Medical Optimization",
+      "icon": "moon",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/dgyyq5vo3gx2ob650q1j3"
+    },
+    {
+      "id": "pain-management",
+      "title": "Pain Management",
+      "description": "Multimodal pain management strategies for pre-operative planning and post-operative recovery.",
+      "category": "Wellbeing",
+      "icon": "shield",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/yycp7e1k44b8q1801ahd2"
+    },
+    {
+      "id": "patient-activation",
+      "title": "Patient Activation",
+      "description": "Strategies to engage and empower patients in their own surgical preparation and recovery journey.",
+      "category": "Surgical Preparation",
+      "icon": "zap",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/15fnitncdzilfu1oysclt"
+    },
+    {
+      "id": "physical-activity",
+      "title": "Physical Activity",
+      "description": "Structured exercise guidelines to improve functional capacity before surgery including aerobic and resistance training.",
+      "category": "Wellbeing",
+      "icon": "dumbbell",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/21esb0n23eucrxxxsdszc"
+    },
+    {
+      "id": "smoking-cessation",
+      "title": "Smoking Cessation",
+      "description": "Smoking cessation programs with pharmacological and behavioral support for surgical candidates.",
+      "category": "Substance Use",
+      "icon": "ban",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/48m2bxszut1gyjwycj6fz"
+    },
+    {
+      "id": "support-after-surgery",
+      "title": "Support After Surgery",
+      "description": "Post-operative support resources covering recovery expectations, follow-up care, and rehabilitation.",
+      "category": "Surgical Preparation",
+      "icon": "heart-handshake",
+      "pdfUrl": "https://pub-e001eb4506b145aa938b5d3badbff6a5.r2.dev/attachments/n9bk700b1ygqvxs7f6ijf"
+    }
+  ]
+}
